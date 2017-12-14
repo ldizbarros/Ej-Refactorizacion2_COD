@@ -8,8 +8,8 @@ public class Calculos {
     /**
      * Funcion que calcula el factorial del numero que se pasa por parametro y 
      * devuelve el dicho factorial.
-     * @param numero
-     * @return 
+     * @param numero numero del que se calculara el factorial
+     * @return factorial del numero introducido
      */
     public int calcularFactorial(int numero){
         int factorial,i;
